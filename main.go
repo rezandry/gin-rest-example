@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/rezandry/rest-api-gin/controller"
+	"github.com/rezandry/gin-rest-example/controller"
 )
 
 func main() {
